@@ -1,0 +1,33 @@
+A:\Projects\FalimyStatistics\FalimyStatistics\bin\Debug\FalimyStatistics.exe.config
+A:\Projects\FalimyStatistics\FalimyStatistics\bin\Debug\FalimyStatistics.exe
+A:\Projects\FalimyStatistics\FalimyStatistics\bin\Debug\FalimyStatistics.pdb
+A:\Projects\FalimyStatistics\FalimyStatistics\obj\Debug\FalimyStatistics.csprojResolveAssemblyReference.cache
+A:\Projects\FalimyStatistics\FalimyStatistics\obj\Debug\FalimyStatistics.csproj.CoreCompileInputs.cache
+A:\Projects\FalimyStatistics\FalimyStatistics\obj\Debug\FalimyStatistics.exe
+A:\Projects\FalimyStatistics\FalimyStatistics\obj\Debug\FalimyStatistics.pdb
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csprojResolveAssemblyReference.cache
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.exe
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.pdb
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe.config
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe
+E:\Колледж\Прогерство\Дома\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.pdb
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe.config
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.pdb
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csprojResolveAssemblyReference.cache
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csproj.CoreCompileInputs.cache
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.exe
+D:\Колледж\Прогерство\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.pdb
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe.config
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.pdb
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csprojResolveAssemblyReference.cache
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.exe
+E:\Программирование\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.pdb
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe.config
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.exe
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\bin\Debug\FalimyStatistics.pdb
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csprojAssemblyReference.cache
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.csproj.CoreCompileInputs.cache
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.exe
+E:\Прогерство\C#\Индивидуальный проект Гилёв Дмитрий П-18\FamilyStatistics V2.0\FalimyStatistics\obj\Debug\FalimyStatistics.pdb
